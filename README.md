@@ -60,15 +60,19 @@ The dashboard is designed to help business stakeholders and analysts understand 
 
 ### Radar Chart – Global Sales by Genre
 ![Global Sales Radar](images/radar_chart_global_sales.png)
+This visualization highlights Action and Sports genres as the top contributors to global video game sales, while Puzzle and Platform genres show comparatively lower market impact.
 
 ### Radar Chart – Regional Sales by Genre
 ![Region-wise Sales Radar](images/radar_chart_region_wise.png)
+This chart compares genre performance across regions, revealing regional preferences, such as stronger Role-Playing and Strategy sales in Japan compared to North America.
 
 ### Sales by Genre and Year (Matrix View)
 ![Sales Matrix](images/sales_by_genre_year_matrix.png)
+A detailed matrix breakdown of sales by genre, region, and year, enabling granular comparison and validation of trends observed in high-level visuals.
 
-### Sales Trends Over Time (Line Charts)
+### Sales Trends Over Time by Genre (Line Charts)
 ![Sales by Year and Genre](images/sales_trend_by_genre_year.png)
+Line charts illustrate long-term sales trends, showing peak growth periods during the early 2000s and a gradual decline in later years across multiple genres.
 
 ### Key Insights
 - Action and Sports genres dominate global sales
